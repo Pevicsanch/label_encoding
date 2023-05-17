@@ -5,8 +5,8 @@ Functionality
 
 The CATCODE function takes a range of cells containing the values from the desired column as input. It then assigns a code to each cell based on its value, using the following logic:
 
-    If a value appears for the first time, it is assigned a code of 0.
-    If a value has appeared before, it is assigned the next available code in ascending order.
+If a value appears for the first time, it is assigned a code of 0.
+If a value has appeared before, it is assigned the next available code in ascending order.
 
 The result of the function is an array containing the codes corresponding to the values in the original column.
 
@@ -23,17 +23,19 @@ ________
 
 + Double-click on the newly created module to open the code window for that module.
 
-+ In this code window, you'll see a blank area where you can enter your VBA code. D
++ In this code window, you'll see a blank area where you can enter your VBA code. 
 
 + Copy  the code (in the catcode.bv file)
 
 + Close the VBA editor by clicking the "X" button in the top-right corner of the editor window or by pressing "Alt + Q" on your keyboard.
 
-    You have successfully copied and pasted the CATCODE function code into your Excel workbook. You can now use the CATCODE function in your spreadsheet.
+You have successfully copied and pasted the CATCODE function code into your Excel workbook. You can now use the CATCODE function in your spreadsheet.
 ## Example
 ___________________
 
+![Alt Text](./images/image1.png)
 
+v![Alt Text](./images/image2.png)
 
 ## Requirements
 ________
